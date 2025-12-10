@@ -1,0 +1,7 @@
+
+uv run streamlit run app.py
+
+http://localhost:8501/
+
+Easy to do streamlit projects for a techie intern wanting to start AI career
+

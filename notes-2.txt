@@ -1,0 +1,82 @@
+Sreeprakashs-MacBook-Pro-3:new sree$ uv run python  cookbook-examples-gemini-3-product-comparison-agent.py 
+INFO Google Search enabled.                                                                                                                 
+INFO URL context enabled.                                                                                                                   
+Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                          ┃
+┃ Compare the Iphone 15 and Samsung Galaxy S25                                                                                             ┃
+┃                                                                                                                                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (36.3s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                          ┃
+┃                                                              Quick Verdict                                                               ┃
+┃                                                                                                                                          ┃
+┃ The Samsung Galaxy S25 is the superior choice for most users in 2025, offering a smoother 120Hz display, a dedicated telephoto lens, and ┃
+┃ full AI capabilities that the base iPhone 15 lacks. Choose the iPhone 15 only if you are deeply locked into the Apple ecosystem or need  ┃
+┃ to save money, as it misses out on critical modern features like Apple Intelligence.                                                     ┃
+┃                                                                                                                                          ┃
+┃ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ┃
+┃                                                             Comparison Table                                                             ┃
+┃                                                                                                                                          ┃
+┃                                                                                                                                          ┃
+┃   Feature            Samsung Galaxy S25                              Apple iPhone 15                                                     ┃
+┃  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                                      ┃
+┃   Release Date       Feb 2025                                        Sept 2023                                                           ┃
+┃   Display            6.2" Dynamic AMOLED 2X, 120Hz                   6.1" OLED, 60Hz                                                     ┃
+┃   Processor          Snapdragon 8 Elite for Galaxy                   A16 Bionic                                                          ┃
+┃   RAM                12GB                                            6GB                                                                 ┃
+┃   AI Support         Full Galaxy AI Support                          No Apple Intelligence Support                                       ┃
+┃   Rear Cameras       50MP Main, 12MP Ultra-wide, 10MP 3x Telephoto   48MP Main, 12MP Ultra-wide                                          ┃
+┃   Battery            4,000 mAh (Faster Charging)                     3,349 mAh                                                           ┃
+┃   Software Support   7 Years (until ~2032)                           ~5-6 Years (from 2023 launch)                                       ┃
+┃   Biometrics         Ultrasonic In-Display Fingerprint               Face ID                                                             ┃
+┃                                                                                                                                          ┃
+┃                                                                                                                                          ┃
+┃ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ┃
+┃                                                               Pros & Cons                                                                ┃
+┃                                                                                                                                          ┃
+┃                                                            Samsung Galaxy S25                                                            ┃
+┃                                                                                                                                          ┃
+┃ ✅ Pros:                                                                                                                                 ┃
+┃                                                                                                                                          ┃
+┃  • Superior Display: The 120Hz refresh rate makes scrolling and animations feel significantly smoother than the iPhone's 60Hz.           ┃
+┃  • Future-Proof AI: Comes with full support for Galaxy AI features (Live Translate, Circle to Search, etc.).                             ┃
+┃  • Versatile Camera: Includes a dedicated 3x optical telephoto lens for better zoom shots.                                               ┃
+┃  • Longer Support Life: Released in 2025 with 7 years of guaranteed OS updates.                                                          ┃
+┃                                                                                                                                          ┃
+┃ ❌ Cons:                                                                                                                                 ┃
+┃                                                                                                                                          ┃
+┃  • Resale Value: Generally depreciates faster than iPhones.                                                                              ┃
+┃  • Bloatware: Pre-installed apps from Samsung and carriers can be cluttered compared to iOS.                                             ┃
+┃                                                                                                                                          ┃
+┃                                                             Apple iPhone 15                                                              ┃
+┃                                                                                                                                          ┃
+┃ ✅ Pros:                                                                                                                                 ┃
+┃                                                                                                                                          ┃
+┃  • Video Quality: Remains the gold standard for video recording with excellent stabilization and consistency.                            ┃
+┃  • Ecosystem Integration: Seamlessly works with AirPods, Apple Watch, and Mac.                                                           ┃
+┃  • Refined Design: The "Dynamic Island" adds useful utility, and the build quality is premium.                                           ┃
+┃  • Simplicity: iOS is incredibly user-friendly and reliable.                                                                             ┃
+┃                                                                                                                                          ┃
+┃ ❌ Cons:                                                                                                                                 ┃
+┃                                                                                                                                          ┃
+┃  • Dated Display: The 60Hz screen feels sluggish compared to virtually any modern Android phone.                                         ┃
+┃  • No AI: Does not support Apple Intelligence (this feature requires iPhone 15 Pro or newer).                                            ┃
+┃  • Slow Charging: Charging speeds are significantly slower than the S25.                                                                 ┃
+┃                                                                                                                                          ┃
+┃ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ┃
+┃                                                                 Best For                                                                 ┃
+┃                                                                                                                                          ┃
+┃  • Choose the Samsung Galaxy S25 if: You want the latest technology, value a high-refresh-rate screen, use zoom photography often, or    ┃
+┃    want access to modern AI features. It is a true 2025 flagship.                                                                        ┃
+┃  • Choose the iPhone 15 if: You are on a stricter budget, already own other Apple devices (Mac/iPad), and prioritize video recording     ┃
+┃    quality over photography zoom or screen smoothness.                                                                                   ┃
+┃                                                                                                                                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Citations ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                          ┃
+┃                                                                                                                                          ┃
+┃  1 phonearena.com                                                                                                                        ┃
+┃                                                                                                                                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+

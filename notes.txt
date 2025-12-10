@@ -1,0 +1,89 @@
+Sreeprakashs-MacBook-Pro-3:new sree$ uv run python cookbook-examples-gemini-3-research-agent.py 
+INFO Google Search enabled.                                                                                                                 
+Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                          ┃
+┃ What are the latest breakthroughs in quantum computing this year?                                                                        ┃
+┃                                                                                                                                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (40.3s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                          ┃
+┃ 2025 has been a pivotal year for quantum computing, characterized by a shift from experimental noise to verified stability. The most     ┃
+┃ significant trend this year is the industry-wide transition from "noisy" physical qubits to reliable logical qubits, bringing            ┃
+┃ fault-tolerant quantum computing closer to reality.                                                                                      ┃
+┃                                                                                                                                          ┃
+┃ The following is a summary of the major breakthroughs in quantum computing for 2025:                                                     ┃
+┃                                                                                                                                          ┃
+┃                                                        1. Major Hardware Releases                                                        ┃
+┃                                                                                                                                          ┃
+┃  • Google's "Willow" Chip: In late 2025, Google unveiled its 105-qubit Willow processor. Its defining achievement is "exponential error  ┃
+┃    suppression," meaning that as more qubits were added, the error rate actually decreased—a behavior necessary for scaling that had     ┃
+┃    long eluded researchers. Google claims Willow performed a benchmark calculation in under 5 minutes that would take a supercomputer    ┃
+┃    septillions of years.                                                                                                                 ┃
+┃  • Microsoft's "Majorana 1": Early in the year, Microsoft announced the Majorana 1, the first quantum processor built around topological ┃
+┃    qubits. These qubits are inherently more stable against environmental noise than standard methods, potentially reducing the massive   ┃
+┃    overhead needed for error correction.                                                                                                 ┃
+┃  • IBM's "Heron" & "Nighthawk": IBM continued its aggressive roadmap. Early in 2025, it demonstrated the Heron chip capable of           ┃
+┃    simulating RNA structures (up to 60 nucleotides), a massive leap for computational biology. By late 2025, IBM was preparing to debut  ┃
+┃    its Nighthawk processor, designed to further scale computational capacity for utility-scale problems.                                 ┃
+┃                                                                                                                                          ┃
+┃                                             2. The Era of Logical Qubits (Error Correction)                                              ┃
+┃                                                                                                                                          ┃
+┃  • Microsoft & Quantinuum Collaboration: In a landmark achievement in April, Microsoft and Quantinuum successfully demonstrated 12       ┃
+┃    highly reliable logical qubits. By combining Microsoft’s qubit-virtualization software with Quantinuum’s H2 ion-trap hardware, they   ┃
+┃    achieved error rates 800 times lower than physical error rates, marking a definitive move into "Level 2 Resilient" quantum computing. ┃
+┃  • Alice & Bob's "Cat Qubits": The French startup reported a breakthrough where their "cat qubits" resisted bit-flip errors for over one ┃
+┃    hour. This stability is orders of magnitude longer than typical millisecond coherence times, suggesting a more efficient path to      ┃
+┃    fault tolerance that requires fewer physical qubits.                                                                                  ┃
+┃                                                                                                                                          ┃
+┃                                                   3. Academic & Physics Breakthroughs                                                    ┃
+┃                                                                                                                                          ┃
+┃  • Room-Temperature Quantum Device (Stanford): In December, Stanford University researchers published work on a device using "twisted    ┃
+┃    light" to entangle photons and electrons at room temperature. While still experimental, this challenges the long-held constraint that ┃
+┃    quantum hardware requires near-absolute-zero cooling, potentially opening the door to cheaper, more accessible quantum tech in the    ┃
+┃    far future.                                                                                                                           ┃
+┃  • Quantum Internet Range Extension: Researchers at the University of Chicago demonstrated a new nanofabrication technique that could    ┃
+┃    theoretically extend the range of quantum networks to 2,000 km (up from just a few kilometers), a critical step toward a viable       ┃
+┃    "quantum internet."                                                                                                                   ┃
+┃                                                                                                                                          ┃
+┃                                                  4. Practical Applications & Simulation                                                  ┃
+┃                                                                                                                                          ┃
+┃  • Biological Simulation: Beyond IBM's RNA work, IonQ and Kapu Quantum successfully modeled protein folding involving 12 amino acids.    ┃
+┃    These simulations are the first tangible proof that quantum computers can handle the complex chains required for drug discovery.      ┃
+┃  • Cosmological Simulation: D-Wave used its annealing quantum computer to simulate "false vacuum decay," a theoretical event regarding   ┃
+┃    the stability of the universe. This demonstrated the technology's utility in high-energy physics, solving equations that are          ┃
+┃    exponentially difficult for classical supercomputers.                                                                                 ┃
+┃                                                                                                                                          ┃
+┃                                                5. Summary of Key Players (2025 Snapshot)                                                 ┃
+┃                                                                                                                                          ┃
+┃                                                                                                                                          ┃
+┃   Company/Inst.   Key 2025 Breakthrough   Significance                                                                                   ┃
+┃  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                                    ┃
+┃   Google          Willow Chip             Proved errors decrease as system scales (below threshold).                                     ┃
+┃   Microsoft       Majorana 1 Chip         First topological processor; high inherent stability.                                          ┃
+┃   Quantinuum      12 Logical Qubits       800x error reduction; verified "reliable" logical qubits.                                      ┃
+┃   IBM             Heron/Nighthawk         Practical RNA simulation; utility-scale hardware.                                              ┃
+┃   Stanford        Room-Temp Device        Entanglement without extreme cryogenic cooling.                                                ┃
+┃                                                                                                                                          ┃
+┃                                                                                                                                          ┃
+┃ Note on Timeline: The information above reflects the "current" status of the industry as of December 2025. Many of these announcements   ┃
+┃ (like the Majorana 1 and Willow) are specific to the 2025 calendar year.                                                                 ┃
+┃                                                                                                                                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Citations ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                          ┃
+┃                                                                                                                                          ┃
+┃   1 techi.com                                                                                                                            ┃
+┃   2 forbes.com                                                                                                                           ┃
+┃   3 time.com                                                                                                                             ┃
+┃   4 quantinuum.com                                                                                                                       ┃
+┃   5 forbes.com                                                                                                                           ┃
+┃   6 hoodline.com                                                                                                                         ┃
+┃   7 uchicago.edu                                                                                                                         ┃
+┃   8 youtube.com                                                                                                                          ┃
+┃   9 computing.co.uk                                                                                                                      ┃
+┃  10 constellationr.com                                                                                                                   ┃
+┃  11 thequantuminsider.com                                                                                                                ┃
+┃                                                                                                                                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+

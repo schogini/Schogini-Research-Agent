@@ -1,0 +1,6 @@
+======= STARTING ======
+run.sh cookbook-examples-gemini-3-research-agent.py
+/Users/sree/Downloads/AI/untracked/new
+======= STARTING ======
+run.sh cookbook-examples-gemini-3-product-comparison-agent.py
+/Users/sree/Downloads/AI/untracked/new
